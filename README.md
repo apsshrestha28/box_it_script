@@ -1,4 +1,4 @@
-# box it script
+# Box It Script
 
 Description : Script that takes an array of strings and returns a string where each is in a single column table.
 
